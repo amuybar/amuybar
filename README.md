@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @amuybar
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter/Dart/Node js
+
+![classic](https://github.com/amuybar/amuybar/assets/160924604/db2896f0-8228-4992-ab79-d28e415626f7)
+
 - 💞️ I’m looking to collaborate on intresting things
 - 📫 How to reach me ...
 - 😄 Pronouns: Am a male so(HE?HIM)
