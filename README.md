@@ -1,4 +1,4 @@
-```markdown name=README.md
+
 # Hi there, I'm amuybar! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open source projects. Here you'll find a collection of my projects, collaborations, and contributions.
@@ -42,4 +42,4 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 Feel free to check out my repositories and contribute to any projects that interest you. Let's build something amazing together!
 
 Thanks for visiting my profile! Have a great day! 😊
-```
+
